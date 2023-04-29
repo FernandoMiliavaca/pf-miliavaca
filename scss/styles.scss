@@ -388,3 +388,23 @@ margin-top: 2em;
     margin-top: 1em;
 }
 }
+
+
+/* GOTOP */
+
+#subir {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: #555;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 4px;
+  }
+  
