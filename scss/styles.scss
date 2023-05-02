@@ -203,6 +203,18 @@ color: $color-primario;
 }
 
 
+.rrss-buttons a
+{
+    color: $color-primario;
+    font-size: 40px;
+    text-decoration: none;           
+}
+
+.rrss-buttons a:hover
+{
+    transform: scale(1.2);
+}
+
 
 .footer ul {
 list-style: none;

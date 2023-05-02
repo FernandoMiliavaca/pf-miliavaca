@@ -167,6 +167,16 @@
   color: #107674;
 }
 
+.rrss-buttons a {
+  color: #107674;
+  font-size: 40px;
+  text-decoration: none;
+}
+
+.rrss-buttons a:hover {
+  transform: scale(1.2);
+}
+
 .footer ul {
   list-style: none;
   margin: 0;

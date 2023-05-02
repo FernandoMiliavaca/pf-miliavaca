@@ -1,0 +1,33 @@
+1) Hacer CRUD:
+	- Crear: (listo)
+	- Leer: (listo)
+	- Actualizar {tira error}
+	- Borrar (listo)
+2) Crear App para cuentas
+
+2 bis) Form para cargar blog, solo con permiso de administrador a los usuarios logeados.
+3) Comenzar a documentar
+4) Crear el Dashboard para ver las publicaciones una vez logueados
+5) Crear el page Perfil, para ver el perfil del usuario y editarlo 
+5) Editar Front
+
+
+
+user:fernando
+pass:
+argentina2022
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+Hola Fernando, como va? viene bien, 
+
+* falta aplicar ck editor.	/// encontrado en youtube /// 
+* falta app de mensajeria.
+* falta perfil (descripcion, link, etc). 
+* falta corregir error en crear post...
+
+no alcanza para aprobar, tenes una semana mas, avisame si necesitas ayuda.
+
+------------------------------------------------------------
+------------------------------------------------------------
